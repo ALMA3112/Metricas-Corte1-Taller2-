@@ -231,10 +231,3 @@ Este filtro exhibe el mayor Speedup del taller. La doble convolución 3×3 sobre
 
 5. **El re-encodeo a H.264 con ffmpeg es indispensable** para la reproducción inline en navegadores, ya que el codec `mp4v` generado por OpenCV no es soportado por los players HTML5 modernos.
 
-
-## Referencias
-
-- NVIDIA Corporation. *CUDA C++ Programming Guide*. https://docs.nvidia.com/cuda/cuda-c-programming-guide/
-- Lam, S. K., Pitrou, A., & Seibert, S. (2015). *Numba: A LLVM-based Python JIT Compiler*. Proceedings of the Second Workshop on the LLVM Compiler Infrastructure in HPC.
-- Gonzalez, R. C., & Woods, R. E. (2018). *Digital Image Processing* (4th ed.). Pearson.
-- Sobel, I. (1990). *An Isotropic 3×3 Image Gradient Operator*. Machine Vision for Three-Dimensional Scenes.
